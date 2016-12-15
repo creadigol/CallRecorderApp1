@@ -1,0 +1,714 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:2:1-214:12
+	package
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:7:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:14:22-69
+uses-permission#android.permision.CALL_PHONE
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:18:5-83
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\61bb7ecf8f9fc3f694d0085a1c0187f599eab524\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\ADMIN\.android\build-cache\f5b4ca2530b944e8fd6c4d96eca7cee319ab29fd\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\bbd86bdc2cc2eaadd62886157691d8b5cfd6dc2c\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\7ca76f375fb782b611acbeb299762378eea89ad3\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\3e9d9872aa94e27cbca918aa9bada01307486ded\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\ADMIN\.android\build-cache\8f631b8e1b2704e9d6ea12acd16bf767fb6d1be6\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:18:22-64
+application
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:21:5-212:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\ADMIN\.android\build-cache\42137ea5db3e93d1838df82bf697d8673de183db\output\AndroidManifest.xml:22:5-20
+MERGED from [com.timehop.stickyheadersrecyclerview:library:0.4.3] C:\Users\ADMIN\.android\build-cache\ab67c406acf89214eb61fc3bd02f72f0921f3876\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\ADMIN\.android\build-cache\c1b2ff3bec74f33373395e8c53607b335d096226\output\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ADMIN\.android\build-cache\1a415cabb2d069bbfa0b962df011678021cf7e6e\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:9.0.0] C:\Users\ADMIN\.android\build-cache\d9132f5c3813abbd38a84f93606a9c341ea928db\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\61bb7ecf8f9fc3f694d0085a1c0187f599eab524\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-cast:9.0.0] C:\Users\ADMIN\.android\build-cache\36dfbcb2f96598c704253336746a64a7f2b2f66c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\ADMIN\.android\build-cache\a2b3d40b12d9610bee7ce2deaedc414c5fd6b5b0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:9.0.0] C:\Users\ADMIN\.android\build-cache\c9f875cc6361a676b4b44692225e2395b98202d9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\2ff2bbaaf14fdf88a700f96079074482bb5151c6\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] C:\Users\ADMIN\.android\build-cache\9c3883b8b2a739573f2248825d7317fcec27cc80\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.0.0] C:\Users\ADMIN\.android\build-cache\1a7b0c8aa6ffcdd7901ea5ca5c0e028355dea46b\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.0.0] C:\Users\ADMIN\.android\build-cache\24697cd22a99dbdbc3a8e2fdb68b3c84e24948ff\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.0.0] C:\Users\ADMIN\.android\build-cache\13d46f533ec772f58907a2627ee3c85617ecb55d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\ADMIN\.android\build-cache\f5b4ca2530b944e8fd6c4d96eca7cee319ab29fd\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] C:\Users\ADMIN\.android\build-cache\dc4e25aba6dd59a1ee63ad1d46efb8d84cf7c637\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\bbd86bdc2cc2eaadd62886157691d8b5cfd6dc2c\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.0.0] C:\Users\ADMIN\.android\build-cache\fe59ef60328d1e68be970eb7f16fd43f4c6027ee\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] C:\Users\ADMIN\.android\build-cache\2a5505a579a28a03d7716ffd21717653d970ae4c\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.0.0] C:\Users\ADMIN\.android\build-cache\e2d535c535a9b4deb011fd821eebc26c72a3f59c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.0.0] C:\Users\ADMIN\.android\build-cache\700e8e1b75f38e78d859705c83cee2b4bcc8bd84\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.0.0] C:\Users\ADMIN\.android\build-cache\16aa1543ad08a5359533b7243f0df58f8a650abf\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\7ca76f375fb782b611acbeb299762378eea89ad3\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\3e9d9872aa94e27cbca918aa9bada01307486ded\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] C:\Users\ADMIN\.android\build-cache\5198444007461026281072c92fe1a83cc9c83a46\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.0.0] C:\Users\ADMIN\.android\build-cache\b6a5bd86d6bc5c0b97814a96c20ac32295d5cde8\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\ADMIN\.android\build-cache\8f631b8e1b2704e9d6ea12acd16bf767fb6d1be6\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.0.0] C:\Users\ADMIN\.android\build-cache\1897001f5af2841be285b48a853f854d4a0818cc\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\ADMIN\.android\build-cache\fe541dc57c9d228369ed2110591b9ddf40b761e0\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\ADMIN\.android\build-cache\244a69b2fbae8a2d189069209510c7d151cf4896\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\ADMIN\.android\build-cache\49d0fb39787b27b27b36283dd7cf8937da04569f\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\ADMIN\.android\build-cache\3b3c45be01e6a89b22f090b73baf1df367750cf0\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.nononsenseapps:filepicker:3.1.0] C:\Users\ADMIN\.android\build-cache\0e2f07b6e2619fb84073454fbad2237c657b3aa9\output\AndroidManifest.xml:17:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ADMIN\.android\build-cache\95f3ac9d8d29c858841e3e7390a95721f395d906\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ADMIN\.android\build-cache\d3889ef0559c038925d4af9428baf3fa2fc43370\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ADMIN\.android\build-cache\a013fb0d7ddccfc45157da38d9dbc307739a6553\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ADMIN\.android\build-cache\f3fcbd9b3ee6cf3261a8aa79d49a9b9e2dcbefbf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ADMIN\.android\build-cache\9ac4a261c0a731a2da1b7fda106cd337b5ad4516\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ADMIN\.android\build-cache\2ff6536e6197d66f512b6722e02ed9b4a93098e2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ADMIN\.android\build-cache\ccc768379c028a5bf25dfaa12077e29bac4c24d2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ADMIN\.android\build-cache\5fbb9153dc8d0a52ef6238a724aeb8bfb1d1eaa4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ADMIN\.android\build-cache\8b38ceb82977b86794e260330c0f7a6590516937\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:25:9-41
+	android:supportsRtl
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:27:9-35
+	android:allowBackup
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:24:9-39
+	android:largeHeap
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:26:9-33
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:28:9-47
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:22:9-68
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:29:9-31:56
+	android:value
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:31:13-53
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:30:13-58
+meta-data#com.google.android.gms.version
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:32:9-34:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\ADMIN\.android\build-cache\3b3c45be01e6a89b22f090b73baf1df367750cf0\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:33:13-58
+activity#example.com.callrecorder.MainActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:36:9-46:20
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:38:13-45
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:37:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:44:27-74
+activity#example.com.callrecorder.CloudAccount
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:47:9-51:59
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:49:13-65
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:48:13-41
+activity#example.com.callrecorder.Setting
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:52:9-56:59
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:54:13-59
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:53:13-36
+activity#example.com.callrecorder.DetailActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:57:9-59:32
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:59:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:58:13-43
+activity#example.com.callrecorder.PlayActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:65:9-68:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:67:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:66:13-41
+activity#example.com.callrecorder.Recording
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:69:9-72:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:71:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:70:13-38
+activity#example.com.callrecorder.Filter
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:73:9-76:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:75:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:74:13-35
+activity#example.com.callrecorder.Notification_activity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:77:9-80:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:79:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:78:13-50
+activity#example.com.callrecorder.Editnotes_activity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:81:9-84:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:83:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:82:13-47
+activity#example.com.callrecorder.Googledrive.Drive_activity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:86:9-89:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:88:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:87:13-55
+activity#example.com.callrecorder.Ignore_contact
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:90:9-93:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:92:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:91:13-43
+activity#example.com.callrecorder.ContactToSave
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:94:9-97:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:97:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:96:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:95:13-42
+activity#example.com.callrecorder.Record_contact
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:98:9-101:52
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:100:13-29
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:99:13-43
+receiver#example.com.callrecorder.callrecordersdata.CallBroadcastReceiver
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:103:9-112:20
+	android:enabled
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:105:13-35
+	android:exported
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:104:13-68
+intent-filter#android.intent.action.NEW_OUTGOING_CALL+android.intent.action.PHONE_STATE
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:107:13-111:29
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:108:17-82
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:108:25-79
+action#android.intent.action.PHONE_STATE
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:109:17-76
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:109:25-73
+receiver#example.com.callrecorder.callrecordersdata.NotificationBroadcast
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:114:9-119:20
+	android:enabled
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:116:13-35
+	android:exported
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:117:13-36
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:115:13-68
+activity#example.com.callrecorder.callrecordersdata.CallLog
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:120:9-122:48
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:122:13-36
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:121:13-54
+activity#example.com.callrecorder.callrecordersdata.CallPlayer
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:123:9-131:20
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:125:13-39
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:124:13-57
+intent-filter#android.intent.action.VIEW
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:126:13-130:29
+action#android.intent.action.VIEW
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:127:17-69
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:127:25-66
+data
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:129:17-52
+	android:mimeType
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:129:23-49
+service#example.com.callrecorder.callrecordersdata.SyncService
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:132:9-65
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:132:18-63
+service#example.com.callrecorder.callrecordersdata.AutoSaveToCloudService
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:133:9-76
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:133:18-74
+service#example.com.callrecorder.callrecordersdata.RecordService
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:135:9-140:19
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:135:18-65
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:137:13-139:29
+activity#example.com.callrecorder.PopupActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:141:9-144:84
+	android:enabled
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:143:13-35
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:144:13-72
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:142:13-42
+service#example.com.callrecorder.callrecordersdata.PlayService
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:154:9-74
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:154:18-63
+service#example.com.callrecorder.MyService
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:155:9-158:39
+	android:enabled
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:157:13-35
+	android:exported
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:158:13-36
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:156:13-38
+activity#com.dropbox.core.android.AuthActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:160:9-174:20
+	android:launchMode
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:163:13-44
+	android:configChanges
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:162:13-57
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:161:13-65
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:164:13-173:29
+category#android.intent.category.BROWSABLE
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:171:17-78
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:171:27-75
+category#android.intent.category.DEFAULT
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:172:17-76
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:172:27-73
+activity#example.com.callrecorder.CallHistory
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:175:9-180:25
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:179:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:177:13-29
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:178:13-63
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:176:13-40
+activity#example.com.callrecorder.AndroidPlayerActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:181:9-186:25
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:185:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:183:13-29
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:184:13-63
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:182:13-50
+activity#example.com.callrecorder.DirectoryPicker
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:187:9-192:25
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:191:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:189:13-29
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:190:13-63
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:188:13-44
+activity#example.com.callrecorder.Googledrive.CreateEmptyFileActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:193:9-198:25
+	android:screenOrientation
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:197:13-49
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:195:13-29
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:196:13-63
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:194:13-64
+activity#example.com.callrecorder.events.ListenChangeEventsForFilesActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:199:9-79
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:199:19-76
+activity#com.nononsenseapps.filepicker.FilePickerActivity
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:202:9-210:20
+	android:label
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:204:13-45
+	android:theme
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:205:13-51
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:203:13-76
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:206:13-209:29
+action#android.intent.action.GET_CONTENT
+ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:207:17-76
+	android:name
+		ADDED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml:207:25-73
+uses-sdk
+INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] C:\Users\ADMIN\.android\build-cache\42137ea5db3e93d1838df82bf697d8673de183db\output\AndroidManifest.xml:20:5-43
+MERGED from [com.timehop.stickyheadersrecyclerview:library:0.4.3] C:\Users\ADMIN\.android\build-cache\ab67c406acf89214eb61fc3bd02f72f0921f3876\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\ADMIN\.android\build-cache\c1b2ff3bec74f33373395e8c53607b335d096226\output\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ADMIN\.android\build-cache\1a415cabb2d069bbfa0b962df011678021cf7e6e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [se.emilsjolander:stickylistheaders:2.7.0] C:\Users\ADMIN\.android\build-cache\037e43bc0774daf90f8a3f45b088ec7ef59ac626\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\ADMIN\.android\build-cache\cfcd5bc17b1c34b6471aff98e32785d98611d294\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:9.0.0] C:\Users\ADMIN\.android\build-cache\d9132f5c3813abbd38a84f93606a9c341ea928db\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] C:\Users\ADMIN\.android\build-cache\98ffbe71e9df155a26c645d2203686b2e61778e6\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\61bb7ecf8f9fc3f694d0085a1c0187f599eab524\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.0.0] C:\Users\ADMIN\.android\build-cache\36dfbcb2f96598c704253336746a64a7f2b2f66c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\ADMIN\.android\build-cache\a2b3d40b12d9610bee7ce2deaedc414c5fd6b5b0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:9.0.0] C:\Users\ADMIN\.android\build-cache\c9f875cc6361a676b4b44692225e2395b98202d9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\2ff2bbaaf14fdf88a700f96079074482bb5151c6\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] C:\Users\ADMIN\.android\build-cache\9c3883b8b2a739573f2248825d7317fcec27cc80\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.0] C:\Users\ADMIN\.android\build-cache\6076c6f30ce4fb87107720a9134fd5d1921b19b6\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.0.0] C:\Users\ADMIN\.android\build-cache\c00c2ec4247cee8c4aeee719ff10210d66e98207\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.0.0] C:\Users\ADMIN\.android\build-cache\f1ef969a776cb82a0fc8184db8f54e783f355d53\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.0.0] C:\Users\ADMIN\.android\build-cache\b39d37bd933afc0fdeeb10fe221697b2c5fbcf21\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.0.0] C:\Users\ADMIN\.android\build-cache\010c8d11fc72a5c6ff7187019021892e0610036d\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.0.0] C:\Users\ADMIN\.android\build-cache\1a7b0c8aa6ffcdd7901ea5ca5c0e028355dea46b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.0.0] C:\Users\ADMIN\.android\build-cache\24697cd22a99dbdbc3a8e2fdb68b3c84e24948ff\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.0.0] C:\Users\ADMIN\.android\build-cache\13d46f533ec772f58907a2627ee3c85617ecb55d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\ADMIN\.android\build-cache\f5b4ca2530b944e8fd6c4d96eca7cee319ab29fd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] C:\Users\ADMIN\.android\build-cache\dc4e25aba6dd59a1ee63ad1d46efb8d84cf7c637\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\bbd86bdc2cc2eaadd62886157691d8b5cfd6dc2c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.0.0] C:\Users\ADMIN\.android\build-cache\fe59ef60328d1e68be970eb7f16fd43f4c6027ee\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] C:\Users\ADMIN\.android\build-cache\2a5505a579a28a03d7716ffd21717653d970ae4c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.0.0] C:\Users\ADMIN\.android\build-cache\e2d535c535a9b4deb011fd821eebc26c72a3f59c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.0.0] C:\Users\ADMIN\.android\build-cache\700e8e1b75f38e78d859705c83cee2b4bcc8bd84\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.0.0] C:\Users\ADMIN\.android\build-cache\16aa1543ad08a5359533b7243f0df58f8a650abf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.0.0] C:\Users\ADMIN\.android\build-cache\cfaf60c0a2a703504b2988af095d32720930cef9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\7ca76f375fb782b611acbeb299762378eea89ad3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\3e9d9872aa94e27cbca918aa9bada01307486ded\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] C:\Users\ADMIN\.android\build-cache\5198444007461026281072c92fe1a83cc9c83a46\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.0.0] C:\Users\ADMIN\.android\build-cache\23468358dee82da1201218f76cff3f116c16068a\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.0.0] C:\Users\ADMIN\.android\build-cache\b6a5bd86d6bc5c0b97814a96c20ac32295d5cde8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\ADMIN\.android\build-cache\8f631b8e1b2704e9d6ea12acd16bf767fb6d1be6\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.0.0] C:\Users\ADMIN\.android\build-cache\1897001f5af2841be285b48a853f854d4a0818cc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.0] C:\Users\ADMIN\.android\build-cache\955bb610209e53d3396c4e29925c3295c460d767\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\ADMIN\.android\build-cache\fe541dc57c9d228369ed2110591b9ddf40b761e0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\ADMIN\.android\build-cache\244a69b2fbae8a2d189069209510c7d151cf4896\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\ADMIN\.android\build-cache\49d0fb39787b27b27b36283dd7cf8937da04569f\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\ADMIN\.android\build-cache\3b3c45be01e6a89b22f090b73baf1df367750cf0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.nononsenseapps:filepicker:3.1.0] C:\Users\ADMIN\.android\build-cache\0e2f07b6e2619fb84073454fbad2237c657b3aa9\output\AndroidManifest.xml:13:5-15:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ADMIN\.android\build-cache\95f3ac9d8d29c858841e3e7390a95721f395d906\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ADMIN\.android\build-cache\d3889ef0559c038925d4af9428baf3fa2fc43370\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ADMIN\.android\build-cache\a013fb0d7ddccfc45157da38d9dbc307739a6553\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ADMIN\.android\build-cache\f3fcbd9b3ee6cf3261a8aa79d49a9b9e2dcbefbf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ADMIN\.android\build-cache\9ac4a261c0a731a2da1b7fda106cd337b5ad4516\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ADMIN\.android\build-cache\2ff6536e6197d66f512b6722e02ed9b4a93098e2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ADMIN\.android\build-cache\ccc768379c028a5bf25dfaa12077e29bac4c24d2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\ADMIN\.android\build-cache\7225e0f41cd363a49761d15f37278751c8a1a367\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ADMIN\.android\build-cache\5fbb9153dc8d0a52ef6238a724aeb8bfb1d1eaa4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ADMIN\.android\build-cache\8b38ceb82977b86794e260330c0f7a6590516937\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ADMIN\.android\build-cache\95f3ac9d8d29c858841e3e7390a95721f395d906\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\Call recorders\asfak\CallRecorder\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\61bb7ecf8f9fc3f694d0085a1c0187f599eab524\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] C:\Users\ADMIN\.android\build-cache\2a5505a579a28a03d7716ffd21717653d970ae4c\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\7ca76f375fb782b611acbeb299762378eea89ad3\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\3e9d9872aa94e27cbca918aa9bada01307486ded\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\ADMIN\.android\build-cache\8f631b8e1b2704e9d6ea12acd16bf767fb6d1be6\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\ADMIN\.android\build-cache\a1d55db87beb664991452ceb9248c5bc0f9d5ea6\output\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\61bb7ecf8f9fc3f694d0085a1c0187f599eab524\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\7ca76f375fb782b611acbeb299762378eea89ad3\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\3e9d9872aa94e27cbca918aa9bada01307486ded\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\61bb7ecf8f9fc3f694d0085a1c0187f599eab524\output\AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\ADMIN\.android\build-cache\ef696d66b7343508347d6ac08cab6473ce7357dd\output\AndroidManifest.xml:26:25-87
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\ADMIN\.android\build-cache\1e87f1b0862fd45971a6a7be702c90944b464d0f\output\AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\ADMIN\.android\build-cache\d6484df154f769050ec5cf8e9ad9d81f5953660a\output\AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\ADMIN\.android\build-cache\f5b4ca2530b944e8fd6c4d96eca7cee319ab29fd\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\bbd86bdc2cc2eaadd62886157691d8b5cfd6dc2c\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\ADMIN\.android\build-cache\f5b4ca2530b944e8fd6c4d96eca7cee319ab29fd\output\AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\ADMIN\.android\build-cache\50fb8b74bca26e87e4f78fe86ae11134758ae74d\output\AndroidManifest.xml:29:13-87
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\3e9d9872aa94e27cbca918aa9bada01307486ded\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\ADMIN\.android\build-cache\3e9d9872aa94e27cbca918aa9bada01307486ded\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\ADMIN\.android\build-cache\025d4a1e9ab6adb16fddd31c13f9a07d499246cf\output\AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\ADMIN\.android\build-cache\d388ab3486b6a02699db16b60430d836632ab415\output\AndroidManifest.xml:55:25-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\ADMIN\.android\build-cache\8f631b8e1b2704e9d6ea12acd16bf767fb6d1be6\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\ADMIN\.android\build-cache\8f631b8e1b2704e9d6ea12acd16bf767fb6d1be6\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\ADMIN\.android\build-cache\8f631b8e1b2704e9d6ea12acd16bf767fb6d1be6\output\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\ADMIN\.android\build-cache\17d3d234539aeca81ef82a3746aa70dac6df518d\output\AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\ADMIN\.android\build-cache\fe541dc57c9d228369ed2110591b9ddf40b761e0\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\ADMIN\.android\build-cache\fe541dc57c9d228369ed2110591b9ddf40b761e0\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\ADMIN\.android\build-cache\fe541dc57c9d228369ed2110591b9ddf40b761e0\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\ADMIN\.android\build-cache\fe541dc57c9d228369ed2110591b9ddf40b761e0\output\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\ADMIN\.android\build-cache\244a69b2fbae8a2d189069209510c7d151cf4896\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\ADMIN\.android\build-cache\244a69b2fbae8a2d189069209510c7d151cf4896\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\ADMIN\.android\build-cache\244a69b2fbae8a2d189069209510c7d151cf4896\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\ADMIN\.android\build-cache\244a69b2fbae8a2d189069209510c7d151cf4896\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\ADMIN\.android\build-cache\244a69b2fbae8a2d189069209510c7d151cf4896\output\AndroidManifest.xml:9:13-58
