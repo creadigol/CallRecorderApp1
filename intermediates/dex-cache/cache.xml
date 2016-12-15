@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\5fbb9153dc8d0a52ef6238a724aeb8bfb1d1eaa4\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0bc1fdc1ecff1c7cc40251422cfaf17bf758e282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\ccc768379c028a5bf25dfaa12077e29bac4c24d2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b2f78e2f163bb3a38e17e89ba23796fdb0a8c6c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\95f3ac9d8d29c858841e3e7390a95721f395d906\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5edada69fb8de27621339a60a71779abb825f46d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\5fbb9153dc8d0a52ef6238a724aeb8bfb1d1eaa4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b55bd2ed21168027cee5099dc8a76994e558165\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\2ff6536e6197d66f512b6722e02ed9b4a93098e2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_17ef45b9c3e3d7a4192ae2aa78281f6211768558\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\8b38ceb82977b86794e260330c0f7a6590516937\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1d85eddbd6e448e340572be62fe82f4fbc10f1d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\d3889ef0559c038925d4af9428baf3fa2fc43370\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01c82ae178745dc42fe4e3e8279ee693db79ba87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\0e2f07b6e2619fb84073454fbad2237c657b3aa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="070e55a51770a575df114689b7dbe44c7175e34e">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44d40d060be254b2e0fab69fc722cd4416b28564\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\2ff6536e6197d66f512b6722e02ed9b4a93098e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f35379ae7b84af91cee44eee8df0c8cc9b97196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\7225e0f41cd363a49761d15f37278751c8a1a367\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35f207791014e595932146424004530b57292182\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_8424782ab24ebffd9f13e96bada9035422cd48bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\9ac4a261c0a731a2da1b7fda106cd337b5ad4516\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13390aa9db0f03b3c22daf9d7ad9a576af237214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\a013fb0d7ddccfc45157da38d9dbc307739a6553\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75efeec1cdfb33d6a9ed70f3ba14176831e12ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\8b38ceb82977b86794e260330c0f7a6590516937\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5400b89d372adcd8e2150da72cdc7388b6ec1be9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\f3fcbd9b3ee6cf3261a8aa79d49a9b9e2dcbefbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a3f1be40acce933fc0b551169ed2ae29d7ee812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\9ac4a261c0a731a2da1b7fda106cd337b5ad4516\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6d30c39e05010f3a3c05354b9ae80cf6ae38ce73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\ccc768379c028a5bf25dfaa12077e29bac4c24d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Android Studio\Call recorders\asfak\CallRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8ca3ba1e3ad2d5c3ef7e50d6578bc9c356e1476\classes.dex" />
+    </item>
+
+</items>
